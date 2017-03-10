@@ -33,11 +33,15 @@ ISER can collaborate and synchronize changes, both proposed and final, during
 the process of updating the Renewable Energy Development Regions of Alaska
 dataset.
 
-Version 2015 (base dataset rcv'd by AEA) prior to any updates:
+Version 2015 (base dataset obtained from AEA) prior to any updates:
 - The primary version is shapefile shp/aea_renewable_energy_development_regions_2015.shp.zip
---Note that the srs is EPSG:3338
+-- Note that the srs is EPSG:3338
 - There is also a geojson version geojson/renewable_energy_development_regions_4326.geojson
---Note the srs of the geojson is EPSG:4326 so that it displays in the github mapbox viewer
+-- Note the srs of the geojson is EPSG:4326 so that it displays in the github mapbox viewer
+
+File used to seed the AEA Energy Regions database table in the Alaska Energy Data Gateway
+(obtained from UAA-ISER)
+- csv/aea_energy_regions_from_energy_statistics.csv
 
 The data and documentation here is under the [Creative Commons CC-BY-SA]
 (https://creativecommons.org/licenses/by-sa/4.0/) license.
