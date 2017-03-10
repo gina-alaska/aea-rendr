@@ -6,5 +6,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## [Unreleased]
 ### Added
 - 2016-03-09 Added README.md
-- 2016-03-09 Added LICENSE 
+- 2016-03-09 Added LICENSE
+- 2016-03-09 Added CHANGELOG.md
 
