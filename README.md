@@ -1,9 +1,12 @@
 # aea-rendr
 Repo for Alaska Energy Authority (AEA)] - Renewable Energy Development Regions dataset.
 
-This is a projecto to help track the latest copy of the Alaska Geographic regions, as defined by the AEA, that represent areas of Alaska with relatively similar energy characteristics.
+This is a project to help track the latest copy of the AEA Renewable Energy Development Regions.
 
-These boundaries largely follow the regional boundaries established by the
+Renewable Energy Development Regions are geographic regions as defined by the AEA that represent
+areas of Alaska with relatively similar energy characteristics.
+
+These boundaries generally follow the regional boundaries established by the
 Alaska Native Claims Settlement Act of 1971 (ANCSA), with the exception of where
 there are electrical interconnections which cross ANCSA boundaries.
 
@@ -13,7 +16,8 @@ Renewable Energy Atlas of Alaska GIS data delivery.
 These Renewable Energy Developement Regions appear in the web-map verison of the
 Renewable Energy Atlas of Alaska which is hosted on the [AEA - Alaska Energy Data
 Inventory website](http://akenergyinventory.org). These data are also used by
-the UAA-ISER - [Alaska Energy Data Gateway website](http://akenergygateway.alaska.edu) as a Data Search filter.
+the UAA-ISER - [Alaska Energy Data Gateway website](http://akenergygateway.alaska.edu)
+as a Data Search filter.
 
 UAF-GINA and UAA-ISER recognize the benefit of standardizing this data layer to
 ensure that both the Alaska Energy Data Inventory (AEDI) and the Alaska Energy
@@ -29,4 +33,5 @@ ISER can collaborate and synchronize changes, both proposed and final, during
 the process of updating the Renewable Energy Development Regions of Alaska
 dataset.
 
-The data and documentation here is under the [Creative Commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+The data and documentation here is under the [Creative Commons CC-BY-SA]
+(https://creativecommons.org/licenses/by-sa/4.0/) license.
